@@ -26,6 +26,18 @@ body {
   line-height: 1.6;
 }
 
+.update-banner {
+  background: linear-gradient(90deg, #0f766e, #129487);
+  color: #fff;
+  padding: 10px 0;
+  font-size: 14px;
+  box-shadow: 0 6px 16px rgba(15, 118, 110, 0.15);
+}
+
+.update-banner strong {
+  margin-right: 6px;
+}
+
 .container {
   width: min(1080px, 92%);
   margin: 0 auto;
